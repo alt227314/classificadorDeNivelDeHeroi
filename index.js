@@ -20,8 +20,9 @@ if (xp < 1000) {
 } else if (xp >= 10001) {
     nivel = "Radiante";
 } else {
-    nivel = "NOOB";
+    nivel = "Ferro";
 }
 
 alert(`O Herói de nome ${nome} está no nível de ${nivel}`);
+
 
